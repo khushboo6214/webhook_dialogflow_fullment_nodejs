@@ -1,5 +1,5 @@
 {
-  "name": "dialogflow-fulfillment",
+  "name": "@khushboo6214/dialogflow-fulfillment_webhook",
   "description": "Dialogflow Fulfillment Library for Node.js",
   "main": "/Richmessage_dialogflow_fulfillment/dialogflow-fulfillment.js",
   "version": "0.4.1",
@@ -24,6 +24,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/khushboo6214/webhook_dialogflow_fullment_nodejs.git"
+    
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   },
   "keywords": [
     "dialogflow",
